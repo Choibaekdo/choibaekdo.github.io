@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1q7TA2ZPr7sL4EU8adgmP26oASX01Fqolw&s" alt="The Most Famous Mountains" width="500px">
+
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
+
+</body>
+</html>
