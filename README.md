@@ -1,5 +1,3 @@
-# choibaekdo.github.io
-
 # homework
 [**homework2-1**](https://choibaekdo.github.io/homework/homework2-1.html)
 
