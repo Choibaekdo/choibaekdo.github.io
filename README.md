@@ -17,4 +17,4 @@
 
 [**homework3-5**](https://choibaekdo.github.io/homework/homework3-5.html)
 
-[**homework4**](https://choibaekdo.github.io/homework/homework4.html)
+[**homework4**](https://choibaekdo.github.io/homework/homework4)
